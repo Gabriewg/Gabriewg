@@ -1,11 +1,22 @@
 # Olá, eu me chamo Gabriel! 👋
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Código%20é%20como%20humor.%20Quando%20você%20tem%20que%20explicar,%20é%20ruim.&author=Cory%20House" alt="Quote" />
-</div>
-
-### 🚀 Sobre mim
-Estudante de programação focado em construir o lado invisível e poderoso das aplicações: o **Back-end**. Atualmente, dedico meus estudos à linguagens como python e javascript.
+<table border="0">
+  <tr>
+    <td width="300px" align="center">
+      <img src="LINK_DA_SUA_IMAGEM_AQUI" width="100%" />
+    </td>
+    <td>
+      <h3>🚀 Sobre mim</h3>
+      <p>
+        Estudante de programação focado em construir o lado invisível e poderoso das aplicações: o <b>Back-end</b>. 
+        Atualmente, dedico meus estudos às linguagens como <b>Python</b> e <b>JavaScript</b>.
+      </p>
+      <p>
+        <i>"Sempre em busca de transformar lógica em soluções reais."</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 🛠 Minhas Tecnologias
 
@@ -22,7 +33,7 @@ Estudante de programação focado em construir o lado invisível e poderoso das 
 ### 📊 Atividade no GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gabriewg&show_icons=true&theme=dracula" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriewg&show_icons=true&theme=dracula" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriewg&theme=dracula" />
 </p>
 
@@ -30,10 +41,10 @@ Estudante de programação focado em construir o lado invisível e poderoso das 
 
 ### 📫 Como me encontrar
 <div align="center">
-  <a href="mailto:[gabrielsindelg@gmail.com]">
+  <a href="mailto:gabrielsindelg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/gabriel-gomes-85a6a623a/]">
+  <a href="https://www.linkedin.com/in/gabriel-gomes-85a6a623a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
