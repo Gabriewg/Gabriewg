@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="300px" align="center">
-      <img src="LINK_DA_SUA_IMAGEM_AQUI" width="100%" />
+      <img src="https://github.com/user-attachments/assets/d6c319af-e986-4a2f-ac09-3eaa1661fce0" width="100%" />
     </td>
     <td>
       <h3>🚀 Sobre mim</h3>
@@ -11,14 +11,11 @@
         Estudante de programação focado em construir o lado invisível e poderoso das aplicações: o <b>Back-end</b>. 
         Atualmente, dedico meus estudos às linguagens como <b>Python</b> e <b>JavaScript</b>.
       </p>
-      <p>
-        <i>"Sempre em busca de transformar lógica em soluções reais."</i>
-      </p>
     </td>
   </tr>
 </table>
 
-### 🛠 Minhas Tecnologias
+### 🛠 Linguagens atuais
 
 #### 💻 Back-end & Lógica
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
