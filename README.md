@@ -60,8 +60,7 @@
 ### 📊 Atividade no GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gabriewg&show_icons=true&theme=dark" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Gabriewg&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=Gabriewg&theme=dark" />
 </p>
 
 ---
