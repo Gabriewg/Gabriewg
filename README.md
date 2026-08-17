@@ -72,7 +72,7 @@
 ### 📫 Como me encontrar
 <p align="center">
   <a href="mailto:gabrielsindelg@gmail.com" title="E-mail">
-    <img src="https://cdn.simpleicons.org/gmail/FFFFFF" style="background-color:#EA4335;border-radius:50%;padding:10px" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons@master/images/svg/gmail.svg" style="border-radius:50%" height="50" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gabriel-gomes-85a6a623a/" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons@master/images/svg/linkedin.svg" style="border-radius:50%" height="50" />
