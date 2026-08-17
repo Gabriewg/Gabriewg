@@ -9,7 +9,7 @@
       <h3>🚀 Sobre mim</h3>
       <p>
         Estudante de programação focado em construir o lado invisível e poderoso das aplicações: o <b>Back-end</b>. 
-        Atualmente, dedico meus estudos às linguagens como <b>Python</b> e <b>JavaScript</b>.
+        Atualmente, dedico meus estudos às linguagens como <b>Python</b>, <b>JavaScript</b> e <b>TypeScript</b>.
       </p>
     </td>
   </tr>
@@ -18,20 +18,50 @@
 ### 🛠 Linguagens atuais
 
 #### 💻 Back-end & Lógica
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<p align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <br><b>Python</b>
+      </td>
+      <td align="center">
+        <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <br><b>TypeScript</b>
+      </td>
+      <td align="center">
+        <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <br><b>JavaScript</b>
+      </td>
+    </tr>
+  </table>
+</p>
 
 #### 🎨 Front-end (Base)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<p align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <br><b>HTML5</b>
+      </td>
+      <td align="center">
+        <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <br><b>CSS3</b>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
 ### 📊 Atividade no GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriewg&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriewg&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gabriewg&show_icons=true&theme=dark" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Gabriewg&theme=dark" />
 </p>
 
 ---
