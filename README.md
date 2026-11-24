@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2a37&height=150&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:9b111e&height=150&section=header" width="100%" alt="" />
 
 <h1>Hi, I'm Gabriel</h1>
 
@@ -9,7 +9,7 @@
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Python+%7C+REST+APIs+%7C+Databases;Studying+Machine+Learning;Open+to+internships+and+junior+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=E0115F&center=true&vCenter=true&width=520&lines=Python+%7C+REST+APIs+%7C+Databases;Studying+Machine+Learning;Open+to+internships+and+junior+roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -47,9 +47,9 @@
 <h2 align="center">Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/Gabriewg"><img src="https://img.shields.io/badge/-GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-gomes-85a6a623a/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gabrielsindelg@gmail.com"><img src="https://img.shields.io/badge/-Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://github.com/Gabriewg"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=E0115F" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-gomes-85a6a623a/"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=E0115F" /></a>
+  <a href="mailto:gabrielsindelg@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=E0115F" /></a>
 </p>
 
 ---
@@ -62,45 +62,25 @@
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">GitHub Stats</h2>
 
-<!--
-  Replace the placeholders with your best repositories.
-  Pin 4-6 projects with clear READMEs, screenshots and setup instructions.
--->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriewg&bg_color=0d1117&color=e0115f&line=e0115f&point=ffffff&area=true&area_color=e0115f&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+</p>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/Gabriewg/REPO">Project name</a></b><br/>
-      One sentence about what it does and the problem it solves.<br/><br/>
-      <code>Python</code>
+    <td align="center">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabriewg&show_icons=true&count_private=true&bg_color=0d1117&title_color=e0115f&icon_color=e0115f&text_color=c9d1d9&border_color=30363d" />
     </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/Gabriewg/REPO">Project name</a></b><br/>
-      One sentence about what it does and the problem it solves.<br/><br/>
-      <code>TypeScript</code> <code>React</code>
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/Gabriewg/REPO">Project name</a></b><br/>
-      One sentence about what it does and the problem it solves.<br/><br/>
-      <code>Python</code>
+    <td align="center">
+      <img height="170" src="https://streak-stats.demolab.com/?user=Gabriewg&theme=dark&background=0D1117&border=30363D&ring=E0115F&fire=E0115F&currStreakLabel=E0115F&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" />
     </td>
   </tr>
 </table>
 
----
-
-<h2 align="center">GitHub Stats</h2>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gabriewg&theme=dark&background=0D1117&hide_border=true&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriewg&layout=compact&langs_count=8&bg_color=0d1117&title_color=e0115f&text_color=c9d1d9&border_color=30363d" />
 </p>
 
-<h2 align="center">Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriewg&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2a37,100:0d1117&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b111e,100:0d1117&height=100&section=footer" width="100%" alt="" />
