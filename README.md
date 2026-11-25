@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:5a0f1f&height=150&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=150&section=header" width="100%" alt="" />
 
 <h1>Hi, I'm Gabriel</h1>
 
@@ -9,7 +9,7 @@
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=A5243D&center=true&vCenter=true&width=520&lines=Python+%7C+REST+APIs+%7C+Databases;Studying+Machine+Learning;Open+to+internships+and+junior+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=9CA3AF&center=true&vCenter=true&width=520&lines=Python+%7C+REST+APIs+%7C+Databases;Studying+Machine+Learning;Open+to+internships+and+junior+roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -47,9 +47,9 @@
 <h2 align="center">Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/Gabriewg"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=A5243D" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-gomes-85a6a623a/"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A5243D" /></a>
-  <a href="mailto:gabrielsindelg@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=A5243D" /></a>
+  <a href="https://github.com/Gabriewg"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=9CA3AF" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-gomes-85a6a623a/"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=9CA3AF" /></a>
+  <a href="mailto:gabrielsindelg@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=9CA3AF" /></a>
 </p>
 
 ---
@@ -65,22 +65,22 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriewg&bg_color=0d1117&color=a5243d&line=a5243d&point=ffffff&area=true&area_color=a5243d&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriewg&bg_color=0d1117&color=9ca3af&line=9ca3af&point=ffffff&area=true&area_color=6e7681&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
 </p>
 
 <table align="center" border="0">
   <tr>
     <td align="center">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabriewg&show_icons=true&count_private=true&bg_color=0d1117&title_color=a5243d&icon_color=a5243d&text_color=c9d1d9&border_color=30363d" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabriewg&show_icons=true&count_private=true&bg_color=0d1117&title_color=9ca3af&icon_color=9ca3af&text_color=c9d1d9&border_color=30363d" />
     </td>
     <td align="center">
-      <img height="170" src="https://streak-stats.demolab.com/?user=Gabriewg&theme=dark&background=0D1117&border=30363D&ring=A5243D&fire=A5243D&currStreakLabel=A5243D&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" />
+      <img height="170" src="https://streak-stats.demolab.com/?user=Gabriewg&theme=dark&background=0D1117&border=30363D&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriewg&layout=compact&langs_count=8&bg_color=0d1117&title_color=a5243d&text_color=c9d1d9&border_color=30363d" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriewg&layout=compact&langs_count=8&bg_color=0d1117&title_color=9ca3af&text_color=c9d1d9&border_color=30363d" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a0f1f,100:0d1117&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer" width="100%" alt="" />
